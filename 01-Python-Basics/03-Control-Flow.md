@@ -182,3 +182,37 @@ dict_comp = {i: i**2 for i in numbers if i % 2 == 0}
 print(f"List: {list_comp}")
 print(f"Set:  {set_comp}")
 print(f"Dict: {dict_comp}")
+
+
+
+
+"""
+### ملخص الدوال (Functions) في بايثون ###
+
+1. أنواع الدوال:
+- الدوال المبنية مسبقاً (Built-in Functions): دوال جاهزة في بايثون مثل print() و len().
+- الدوال المعرفة من قبل المستخدم (User-defined Functions): التي ننشئها باستخدام كلمة 'def'.
+
+2. الوسائط الموضعية (Positional Arguments):
+هي الوسائط التي تعتمد على "الترتيب". يجب تمرير القيم بنفس ترتيب المتغيرات في تعريف الدالة.
+
+3. الوسائط المفتاحية (Keyword Arguments):
+هي الوسائط التي يتم تمريرها مع ذكر "اسم المتغير". ميزتها أنها تسمح بتغيير ترتيب الوسائط عند استدعاء الدالة.
+"""
+
+# --- مثال توضيحي يجمع النوعين ---
+
+def describe_person(name, age, city):
+    print(f"{name} is {age} years old and lives in {city}.")
+
+# 1. استدعاء باستخدام الوسائط الموضعية (الترتيب مهم جداً هنا)
+# Positional Arguments: name="Ali", age=25, city="Rabat"
+describe_person("Ali", 25, "Rabat")
+
+# 2. استدعاء باستخدام الوسائط المفتاحية (الترتيب غير مهم هنا)
+# Keyword Arguments: نحدد كل قيمة لأي متغير تذهب
+describe_person(city="Cairo", name="Sara", age=30)
+
+# --- الدوال مع القيم الافتراضية (Default Parameters) ---
+def greet(name, message="Welcome"):
+    print(f"Hello {name}, {message}")
