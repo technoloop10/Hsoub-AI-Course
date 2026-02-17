@@ -83,4 +83,27 @@ match response_code:
 1. الإزاحة (Indentation): لاحظ أن جمل الطباعة print تم دفعها للداخل بمقدار 4 مسافات لأنها تابعة للشرط.
 2. النقطتان الرأسيتان (:): يجب وضعها بعد كل شرط (if, elif, else) وبعد كل (case) لإعلام بايثون ببداية الكتلة.
 3. نوع البيانات: تم استخدام دالة int() قبل دالة input() لتحويل النص المدخل إلى رقم صحيح ليتمكن البرنامج من مقارنته بالأرقام (200, 404..).
-4. 
+
+
+
+
+03 الحلقات التكرارية :
+
+For. While.
+ هي أدوات تسمح لك بتنفيذ نفس مجموعة الأوامر بشكل متكرر.
+
+مثال
+
+arab_cities = {
+    "Morocco": "Rabat",
+    "Egypt": "Cairo",
+    "Saudi Arabia": "Riyadh",
+    "Algeria": "Algiers",
+    "Tunisia": "Tunis"
+}
+
+for country, capital in arab_cities.items():
+        print(f"The capital of {country} is: {capital}")
+
+
+
