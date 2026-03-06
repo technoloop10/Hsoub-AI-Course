@@ -1,3 +1,5 @@
+<div dir="rtl" style="text-align: right;">
+
 01- الكتلة البرمجية (Code Block) والإزاحة (Indentation)
 
 في هذا القسم سنتعرف على كيفية تنظيم بايثون للأكواد، وهو مفهوم يختلف عن لغات البرمجة الأخرى التي تستخدم الأقواس { }.
@@ -216,3 +218,5 @@ describe_person(city="Cairo", name="Sara", age=30)
 # --- الدوال مع القيم الافتراضية (Default Parameters) ---
 def greet(name, message="Welcome"):
     print(f"Hello {name}, {message}")
+
+</div>

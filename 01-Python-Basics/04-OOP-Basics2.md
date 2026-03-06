@@ -1,3 +1,5 @@
+<div dir="rtl" style="text-align: right;">
+
 .
 01
 
@@ -159,3 +161,5 @@ print(f"Perimeter: {my_square.perimeter()}")
 الوراثة (Inheritance): نقل الصفات من الأب للابن.
 التجريد (Abstraction): إخفاء التفاصيل المعقدة وإظهار الأساسيات.
 تعدد الأشكال (Polymorphism): تنفيذ نفس الأمر بطرق مختلفة.
+
+</div>
