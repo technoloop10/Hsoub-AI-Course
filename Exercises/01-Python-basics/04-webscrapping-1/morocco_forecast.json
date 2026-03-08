@@ -141,56 +141,6 @@
       "city": "Chefchaouen",
       "temp": 19,
       "condition": "Partly cloudy"
-    },
-    {
-      "city": "Amsterdam",
-      "temp": 14,
-      "condition": "Rainy"
-    },
-    {
-      "city": "Cairo",
-      "temp": 32,
-      "condition": "Clear"
-    },
-    {
-      "city": "Paris",
-      "temp": 16,
-      "condition": "Cloudy"
-    },
-    {
-      "city": "London",
-      "temp": 12,
-      "condition": "Partly cloudy"
-    },
-    {
-      "city": "Madrid",
-      "temp": 20,
-      "condition": "Sunny"
-    },
-    {
-      "city": "Rome",
-      "temp": 18,
-      "condition": "Clear"
-    },
-    {
-      "city": "Dubai",
-      "temp": 38,
-      "condition": "Sunny"
-    },
-    {
-      "city": "Istanbul",
-      "temp": 15,
-      "condition": "Rainy"
-    },
-    {
-      "city": "Barcelona",
-      "temp": 19,
-      "condition": "Partly cloudy"
-    },
-    {
-      "city": "Lisbon",
-      "temp": 17,
-      "condition": "Clear"
     }
   ]
 }

@@ -90,17 +90,6 @@ def get_sample_data():
         ("Essaouira", 22, "Windy"),
         ("Asilah", 21, "Clear"),
         ("Chefchaouen", 19, "Partly cloudy"),
-        # Other cities (world forecast style)
-        ("Amsterdam", 14, "Rainy"),
-        ("Cairo", 32, "Clear"),
-        ("Paris", 16, "Cloudy"),
-        ("London", 12, "Partly cloudy"),
-        ("Madrid", 20, "Sunny"),
-        ("Rome", 18, "Clear"),
-        ("Dubai", 38, "Sunny"),
-        ("Istanbul", 15, "Rainy"),
-        ("Barcelona", 19, "Partly cloudy"),
-        ("Lisbon", 17, "Clear"),
     ]
 
 
