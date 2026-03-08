@@ -1,0 +1,196 @@
+{
+  "title": "Morocco / World Weather — Cities Forecast",
+  "date": "08/03/2026",
+  "cities": [
+    {
+      "city": "Casablanca",
+      "temp": 22,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Rabat",
+      "temp": 21,
+      "condition": "Clear"
+    },
+    {
+      "city": "Marrakesh",
+      "temp": 28,
+      "condition": "Sunny"
+    },
+    {
+      "city": "Fes",
+      "temp": 24,
+      "condition": "Clear"
+    },
+    {
+      "city": "Tangier",
+      "temp": 19,
+      "condition": "Cloudy"
+    },
+    {
+      "city": "Agadir",
+      "temp": 26,
+      "condition": "Sunny"
+    },
+    {
+      "city": "Oujda",
+      "temp": 25,
+      "condition": "Clear"
+    },
+    {
+      "city": "Meknes",
+      "temp": 23,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Kenitra",
+      "temp": 20,
+      "condition": "Cloudy"
+    },
+    {
+      "city": "Tetouan",
+      "temp": 18,
+      "condition": "Clear"
+    },
+    {
+      "city": "Safi",
+      "temp": 24,
+      "condition": "Sunny"
+    },
+    {
+      "city": "Khouribga",
+      "temp": 23,
+      "condition": "Clear"
+    },
+    {
+      "city": "El Jadida",
+      "temp": 22,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Nador",
+      "temp": 24,
+      "condition": "Sunny"
+    },
+    {
+      "city": "Taza",
+      "temp": 22,
+      "condition": "Clear"
+    },
+    {
+      "city": "Khemisset",
+      "temp": 21,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Larache",
+      "temp": 19,
+      "condition": "Cloudy"
+    },
+    {
+      "city": "Ksar El Kebir",
+      "temp": 20,
+      "condition": "Clear"
+    },
+    {
+      "city": "Guelmim",
+      "temp": 30,
+      "condition": "Sunny"
+    },
+    {
+      "city": "Laayoune",
+      "temp": 27,
+      "condition": "Clear"
+    },
+    {
+      "city": "Dakhla",
+      "temp": 24,
+      "condition": "Sunny"
+    },
+    {
+      "city": "Errachidia",
+      "temp": 29,
+      "condition": "Clear"
+    },
+    {
+      "city": "Midelt",
+      "temp": 26,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Azrou",
+      "temp": 23,
+      "condition": "Clear"
+    },
+    {
+      "city": "Ifrane",
+      "temp": 18,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Essaouira",
+      "temp": 22,
+      "condition": "Windy"
+    },
+    {
+      "city": "Asilah",
+      "temp": 21,
+      "condition": "Clear"
+    },
+    {
+      "city": "Chefchaouen",
+      "temp": 19,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Amsterdam",
+      "temp": 14,
+      "condition": "Rainy"
+    },
+    {
+      "city": "Cairo",
+      "temp": 32,
+      "condition": "Clear"
+    },
+    {
+      "city": "Paris",
+      "temp": 16,
+      "condition": "Cloudy"
+    },
+    {
+      "city": "London",
+      "temp": 12,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Madrid",
+      "temp": 20,
+      "condition": "Sunny"
+    },
+    {
+      "city": "Rome",
+      "temp": 18,
+      "condition": "Clear"
+    },
+    {
+      "city": "Dubai",
+      "temp": 38,
+      "condition": "Sunny"
+    },
+    {
+      "city": "Istanbul",
+      "temp": 15,
+      "condition": "Rainy"
+    },
+    {
+      "city": "Barcelona",
+      "temp": 19,
+      "condition": "Partly cloudy"
+    },
+    {
+      "city": "Lisbon",
+      "temp": 17,
+      "condition": "Clear"
+    }
+  ]
+}
